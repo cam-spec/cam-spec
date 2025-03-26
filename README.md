@@ -25,16 +25,15 @@
 ## 📈 Recent Projects
 
 - 🔥 **Disney+ EDA Project** — Intermediate-level visualizations & analysis using Python and Plotly.  
-- 📊 **Student Grades Predictor** — Built a regression model to predict academic performance.  
 - 🏫 **Education Logistics Database** — Created a normalized MySQL database to manage deliveries.  
-- 📉 **Stock Dashboard** *(in progress)* — Real-time data with Plotly and yFinance.
+
 
 ---
 
 ## 🌱 About Me
 
 - 🔭 Exploring the world of **Data Science**, one project at a time.  
-- 📚 Currently learning advanced **EDA**, **SQL optimization**, and **automation scripts**.  
+- 📚 Currently learning advanced **EDA**, **SQL optimization**, and **Python**.  
 - 🎯 Focused on building real-world, portfolio-worthy data projects.  
 - 🤝 Open to collaborations — hit me up for anything data-driven!
 
@@ -44,7 +43,7 @@
 
 - 🎵 Music — Chill beats while I code.  
 - ✈️ Traveling — Love discovering new places.  
-- 🎮 Gaming — Strategy + puzzle games are my jam.
+- 🎮 Gaming — Strategy + puzzle + action games are my thing.
 
 ---
 
