@@ -25,7 +25,7 @@
 ## 📈 Recent Projects
 
 - 🔥 **Disney+ EDA Project** — Intermediate-level visualizations & analysis using Python and Plotly.
-- 📁 Dataset: [cleaned_disney_plus_titles.csv](./cleaned_disney_plus_titles.csv)
+📁 Dataset: [cleaned_disney_plus_titles.csv](./cleaned_disney_plus_titles.csv)
 
 - 🏫 **Education Logistics Database** — Created a normalized MySQL database to manage deliveries.  
 
