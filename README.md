@@ -1,5 +1,5 @@
 <!-- GitHub Profile README | Formal + Project Focused -->
-👋 Hi there, I'm Camron Njock!
+# 👋 Hi there, I'm Camron Njock!
 
 🎓 **BSc (Hons) in Data Science** | National College of Ireland  
 📍 Based in Dublin | 📊 Passionate about Data Science, Machine Learning & Visualization  
@@ -28,7 +28,6 @@
 - 🔥 **Disney+ EDA Project** — Intermediate-level visualizations & analysis using Python and Plotly.
 - 🏫 **Education Logistics Database** — Created a normalized MySQL database to manage deliveries.  
 
-
 ---
 
 ## 🌱 About Me
@@ -56,13 +55,13 @@
   </a>
 </p>
 
-
 ---
 
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Camron%20Njock-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/camron-njock-003812262/)  
 📧 Email: camronnjock@gmail.com
+
 
 <!--
 **cam-spec/cam-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
