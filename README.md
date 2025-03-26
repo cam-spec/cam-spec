@@ -51,7 +51,7 @@
 
 <p align="center">
   <a href="https://github.com/camronnjock/disney-plus-eda">
-    <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=camronnjock&repo=disney-plus-eda&theme=react](https://github.com/cam-spec/DisneyPlus-EDA-Analysis)" />
+    <img align="center" src="[)" />
   </a>
   <a href="https://github.com/camronnjock/student-grades-predictor">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=camronnjock&repo=student-grades-predictor&theme=react" />
