@@ -1,67 +1,62 @@
-👋 Hi there, I'm Camron Njock!
+<!-- GitHub Profile README | Formal + Project Focused -->
 
-🎓 **BSc (Hons) in Data Science** | National College of Ireland  
-📍 Based in Dublin | 📊 Passionate about Data Science, Machine Learning & Visualization  
-
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Aspiring+Data+Scientist+%F0%9F%93%8A;Lifelong+Learner+%F0%9F%92%AA;Python+%7C+SQL+%7C+EDA+%7C+ML+%F0%9F%94%AE&center=true&width=500&pause=1000)
-
----
-
-## 🛠️ Tools & Technologies
-
-<!-- Skill badges -->
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📈 Recent Projects
-
-- 🔥 **Disney+ EDA Project** — Intermediate-level visualizations & analysis using Python and Plotly.
-- 🏫 **Education Logistics Database** — Created a normalized MySQL database to manage deliveries.  
-
-
----
-
-## 🌱 About Me
-
-- 🔭 Exploring the world of **Data Science**, one project at a time.  
-- 📚 Currently learning advanced **EDA**, **SQL optimization**, and **Python**.  
-- 🎯 Focused on building real-world, portfolio-worthy data projects.  
-- 🤝 Open to collaborations — hit me up for anything data-driven!
-
----
-
-## 🎨 Hobbies & Interests
-
-- 🎵 Music — Chill beats while I code.  
-- ✈️ Traveling — Love discovering new places.  
-- 🎮 Gaming — Strategy + puzzle + action games are my thing.
-
----
-
-## 📌 Pinned Projects
+<h1 align="center">Hi, I'm Camron Njock</h1>
 
 <p align="center">
-  <a href="https://github.com/cam-spec/DisneyPlus-EDA-Analysis">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cam-spec&repo=DisneyPlus-EDA-Analysis&theme=react" />
-  </a>
+  <strong>BSc (Hons) Data Science @ National College of Ireland</strong><br>
+  <em>Portfolio-Driven Learner</em>
 </p>
-
 
 ---
 
-## 📫 Let's Connect
+### 📌 Featured Project
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Camron%20Njock-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/camron-njock-003812262/)  
-📧 Email: camronnjock@gmail.com
+<a href="https://github.com/cam-spec/DisneyPlus-EDA-Analysis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cam-spec&repo=DisneyPlus-EDA-Analysis&theme=react" />
+</a>
+
+> **Exploratory Data Analysis of Disney+ Movies & TV Shows** — Featuring a custom Streamlit dashboard, animated timeline, mood-based recommendations, and interactive storytelling.
+
+---
+
+### 🛠️ Tools & Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+
+---
+
+### 🎓 Education
+
+**National College of Ireland**  
+BSc (Hons) in Data Science — Year 2
+
+---
+
+### 📄 Resume & Certifications
+
+> **Coming soon** — This section will include links to:
+> - My CV (PDF / Notion / Google Drive)
+> - Relevant certifications (e.g., IBM Data Science, Google Analytics)
+
+---
+
+### 📬 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/camron-njock-003b12622/)
+- 📧 camronnjock@gmail.com
+- [GitHub](https://github.com/cam-spec)
+
+---
+
+<sub><i>This profile README is a reflection of my growth as a data science student and practitioner — always improving, one project at a time.</i></sub>
 
 <!--
 **cam-spec/cam-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
