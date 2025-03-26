@@ -26,7 +26,7 @@
 
 ## 📈 Recent Projects
 
-- 🔥 **Disney+ EDA Project** — Intermediate-level visualizations & analysis using Python and Plotly.
+- 🔥 **[Disney+ EDA Project](https://github.com/cam-spec/DisneyPlus-EDA-Analysis)** — Intermediate-level visualizations & analysis using Python and Plotly.
 - 🏫 **Education Logistics Database** — Created a normalized MySQL database to manage deliveries.  
 
 ---
@@ -62,6 +62,13 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Camron%20Njock-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/camron-njock-003812262/)  
 📧 Email: camronnjock@gmail.com
+
+---
+
+## 📄 Coming Soon
+
+- 🧾 **CV & Certifications Section** — Will be updated once available.
+- 🏆 Certifications in Data Analytics, Machine Learning, and more!
 
 
 <!--
