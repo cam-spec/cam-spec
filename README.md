@@ -57,6 +57,7 @@
   </a>
 </p>
 
+
 ---
 
 ## 📫 Let's Connect
@@ -67,6 +68,8 @@
 ---
 
 ## 📄 Coming Soon
+
+[Thebest cv (1).pdf](https://github.com/user-attachments/files/21944324/Thebest.cv.1.pdf)
 
 - 🧾 **CV & Certifications Section** — Will be updated once available.
 - 🏆 Certifications in Data Analytics, Machine Learning, and more!
