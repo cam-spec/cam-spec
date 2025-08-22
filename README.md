@@ -27,7 +27,8 @@
 ## 📈 Recent Projects
 
 - 🔥 **[Disney+ EDA Project](https://github.com/cam-spec/DisneyPlus-EDA-Analysis)** — Intermediate-level visualizations & analysis using Python and Plotly.
-- 🏫 **Education Logistics Database** — Created a normalized MySQL database to manage deliveries.  
+- 🏫 **Education Logistics Database** — Created a normalized MySQL database to manage deliveries.
+-   review_sentiment_tool
 
 ---
 
