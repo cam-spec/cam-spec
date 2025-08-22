@@ -67,12 +67,13 @@
 
 ---
 
-## 📄 Coming Soon
+## 📄 CV & Certifications
 
-[Thebest cv (1).pdf](https://github.com/user-attachments/files/21944324/Thebest.cv.1.pdf)
 
-- 🧾 **CV & Certifications Section** — Will be updated once available.
-- 🏆 Certifications in Data Analytics, Machine Learning, and more!
+[camron njock cv.pdf](https://github.com/user-attachments/files/21944335/camron.njock.cv.pdf)
+
+- ChatGPT Prompt Engineering for Developers (DeepLearning.AI & OpenAI)
+  
 
 
 <!--
